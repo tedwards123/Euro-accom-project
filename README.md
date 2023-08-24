@@ -6,4 +6,3 @@ This project, as seen in the title, is based off a data source obtained from Kag
 any relationships between rating and price as well as some others with the secondary goal of improving my coding and analytical skills. Without the guidlines of a university 
 assignment, this was more challenging than I first though but I learnt a lot from it. This is one of many to come and I am proud of myself for making a start and making my way 
 into the community. 
-(REPORT YET TO BE UPLOADED)
