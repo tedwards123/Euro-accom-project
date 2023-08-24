@@ -24,5 +24,5 @@ Other information on Rating Categories:
 
 Using Kruskal-Wallis test and Dunn’s post-hoc test, I was able to successfully identify this pattern. Statistically significant results tell us that the groups are all different and I was able to order them. There will be more details in the report but essentially, I found that there was a relationship between rating and price. 
 
-Report Link:
+Report Link: 
 [Accom_Report.pdf](https://github.com/tedwards123/accom-project/files/12430120/Accom_Report.pdf)
