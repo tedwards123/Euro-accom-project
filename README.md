@@ -8,7 +8,7 @@ assignment, this was more challenging than I first though but I learnt a lot fro
 into the community. 
 
 
-Abstract
+# Abstract
 This report delved into the relationship between price and customer rating of different accommodation across different countries and websites, from a Kaggle dataset. I was able to find evidence towards a relationship between rating and price. What I hypothesised was that the higher the rating, the higher the price a customer would pay. During the linear regression analysis, there wasn’t much proof of a positive linear relationship, however once I grouped the ratings into categories, we could see that original hypothesis come to light. The prices are in USD. The results were, from cheapest to expensive (Rating Groups):
 1.	Rating 2-6
 a.	Median: $87; Mean: $108.33
