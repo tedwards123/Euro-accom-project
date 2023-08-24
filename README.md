@@ -19,6 +19,7 @@ a.	Median: $146; Mean: $181.07
 
 Other information on Rating Categories:
 
-![GitHub Logo](C:\Users\TechFast Australia\Desktop\abstract-photo.png)
+![abstract-photo](https://github.com/tedwards123/accom-project/assets/121866262/ed094857-843c-4c1b-be18-bf2f7b6cfede)
+
 
 Using Kruskal-Wallis test and Dunn’s post-hoc test, I was able to successfully identify this pattern. Statistically significant results tell us that the groups are all different and I was able to order them. There will be more details in the report but essentially, I found that there was a relationship between rating and price. 
