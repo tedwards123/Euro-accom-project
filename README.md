@@ -16,6 +16,7 @@ a.	Median: $87; Mean: $108.33
 a.	Median: $125; Mean: $146.04
 3.	Rating 8-10
 a.	Median: $146; Mean: $181.07
+
 Other information on Rating Categories:
-![GitHub Logo](https://1drv.ms/i/s!At9jJlf5OUItguZAWd4fjRRijM40MQ?e=MKjujE)
+![GitHub Logo](C:\Users\TechFast Australia\Desktop\abstract-photo.png)
 Using Kruskal-Wallis test and Dunn’s post-hoc test, I was able to successfully identify this pattern. Statistically significant results tell us that the groups are all different and I was able to order them. There will be more details in the report but essentially, I found that there was a relationship between rating and price. 
